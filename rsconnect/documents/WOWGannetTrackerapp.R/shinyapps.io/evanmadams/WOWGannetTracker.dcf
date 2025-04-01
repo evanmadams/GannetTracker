@@ -1,0 +1,13 @@
+name: WOWGannetTracker
+title: WOWGannetTracker
+username: evanmadams
+account: evanmadams
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13671975
+bundleId: 9613232
+url: https://evanmadams.shinyapps.io/WOWGannetTracker/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R|noga_dm.R
