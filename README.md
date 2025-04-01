@@ -5,6 +5,6 @@ A webapp for compiling eBird data for Northern Gannets in the NE United States
 
 #noga_fn.R creates a function that queries the eBird API
 
-#WOWGannetTrackerapp.R uses the previous function in an leaflet RShiny app to map the detections and provide links to the checklists
+#WOWGannetTrackerapp.R uses the previous function in a leaflet RShiny app to map the detections and provide links to the checklists
 
-#Reach out if you have any questions
+#Built in RStudio
